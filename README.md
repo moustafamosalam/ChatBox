@@ -1,6 +1,6 @@
 # chatbox
 
-ChatBox
+A Flutter app showcasing a fully implemented UI/UX design from a Figma design. Focused on responsive layouts, modern design patterns, and smooth animations. This project is a frontend-only implementation, ideal for design-to-code workflows or UI inspiration.
 
 ## Getting Started
 
