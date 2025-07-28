@@ -23,28 +23,28 @@ This Flutter app showcases a fully implemented **UI/UX design** based on a **Fig
 All preview images are stored in the `projects_media/` folder.
 
 ### 🔹 Splash Screen  
-![Splash Screen](projects_media/1.png)
+![Splash Screen](project_media/1.png)
 
 ### 🔹 Welcome Screen  
-![Welcome Screen](projects_media/2.png)
+![Welcome Screen](project_media/2.png)
 
 ### 🔹 Login Screen  
-![Login Screen](projects_media/3.png)
+![Login Screen](project_media/3.png)
 
 ### 🔹 Signup Screen  
-![Signup Screen](projects_media/4.png)
+![Signup Screen](project_media/4.png)
 
 ### 🔹 Home Screen  
-![Home Screen](projects_media/5.png)
+![Home Screen](project_media/5.png)
 
 ### 🔹 Chat Screen  
-![Chat Screen](projects_media/6.png)
+![Chat Screen](project_media/6.png)
 
 ### 🔹 Contact Info Screen  
-![Contact Info](projects_media/7.png)
+![Contact Info](project_media/7.png)
 
 ### 🔹 Calls Screen  
-![Calls Screen](projects_media/8.png)
+![Calls Screen](project_media/8.png)
 
 ---
 
